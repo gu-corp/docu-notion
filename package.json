@@ -56,7 +56,7 @@
     "lint-staged": "^10.5.4",
     "prettier": "^2.2.1",
     "rimraf": "^4.1.2",
-    "semantic-release": "^19.0.2",
+    "semantic-release": "^25.0.9",
     "typescript": "^4.6.4",
     "vite": "^4.2.1",
     "vitest": "^0.30.1"
